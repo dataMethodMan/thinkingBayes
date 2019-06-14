@@ -1,0 +1,39 @@
+
+Probability is a number between 0 and 1 that reflects the certainty of an event.
+
+Degrees of certainty reflect less than certain outcomes. Coin Toss is 50/50
+
+Conditional Probability, is the likelihood of an event happening , with consideration given to some external  influence
+denoted as p(A|B)
+
+Conjoint Probability -> two things are true
+p(A and B) = p(A)p(B)
+
+Independence, the Probability of one event is not dependent on the proceeding one
+p(B|A) = p(B)
+
+Conjunction related to non independence
+P(B|A) > p(B)
+thus
+p(A and B) = p(A)p(B|A)
+
+
+Cookie Problem
+bowlA = (30 , 10)
+bowlB  = (20, 20)
+
+p(A|B) != p(B|A)
+---
+p(B)p(A|B) = p(A)p(B|A)
+
+p(A|B) = p(A)p(B|A)/p(B)
+--
+thus
+p(B_1|V) = (1|2)*(3|4)/(5|8)
+
+
+
+Diachronic Interpretation means that something happens over time that affcts the hypothesis
+
+Mutually Exclusive: only one of the hypothesis can be true
+Collectively Exhaustiver: there are no other posibilities
