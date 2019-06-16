@@ -31,9 +31,7 @@ p(A|B) = p(A)p(B|A)/p(B)
 thus
 p(B_1|V) = (1|2)*(3|4)/(5|8)
 
-
-
-Diachronic Interpretation means that something happens over time that affcts the hypothesis
+Diachronic Interpretation means that something happens over time that affects the hypothesis
 
 Mutually Exclusive: only one of the hypothesis can be true
-Collectively Exhaustiver: there are no other posibilities
+Collectively Exhaustive: there are no other possibilities
